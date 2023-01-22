@@ -24,11 +24,47 @@ You can refer to the following articles on **_basics of Git and Github and also 
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
-<h2 align=center> 🧑🏻‍💻 Menotors </h2> 
 
-- [Harshit Paneri](https://github.com/harshit-paneri)
-- [Priyanshu Aroa](https://github.com/priyanshuarora595)
-- [Asim Ali DM](https://github.com/asimdm)
-- [Naman Sharma](https://github.com/Naman-sharma00100)
-- [Hanshika Mehta](https://github.com/Hanshika-Mehta)
-- [Somya Champawat](https://github.com/somya0808)
+<h2 align=center> Menotors</h2> 
+<table align="center">
+	<tr >
+    <td align="center">
+            <a href="https://github.com/harshit-paneri">
+              <img src="https://avatars.githubusercontent.com/u/82382478?v=4" width="100px" alt=""/><br />
+              <sub><b>Harshit Paneri</b></sub>
+            </a>
+   </td>
+   <td align="center">
+            <a href="https://github.com/priyanshuarora595">
+              <img src="https://avatars.githubusercontent.com/u/57026241?v=4" width="100px" alt=""/><br />
+              <sub><b>Priyanshu Aroa</b></sub>
+            </a>
+   </td>
+   <td align="center">
+            <a href="https://github.com/Naman-sharma00100">
+              <img src="https://avatars.githubusercontent.com/u/84118525?v=4" width="100px" alt=""/><br />
+              <sub><b>Naman Sharma</b></sub>
+            </a>
+   </td>
+   <td align="center">
+            <a href="https://github.com/asimdm">
+              <img src="https://avatars.githubusercontent.com/u/100372138?v=4" width="100px" alt=""/><br />
+              <sub><b>Asim Ali DM</b></sub>
+            </a>
+   </td>
+   <td align="center">
+            <a href="https://github.com/Hanshika-Mehta">
+              <img src="https://avatars.githubusercontent.com/u/90273801?v=4" width="100px" alt=""/><br />
+              <sub><b>Hanshika Mehta</b></sub>
+            </a>
+   </td>
+   <td align="center">
+            <a href="https://github.com/somya0808">
+              <img src="https://avatars.githubusercontent.com/u/76099618?v=4" width="100px" alt=""/><br />
+              <sub><b>Somya</b></sub>
+            </a>
+   </td>
+  </tr>
+
+</table>
+
