@@ -8,7 +8,7 @@
 
 <h2 align=center> 👨🏻‍💻 How to get started? </h2> 
 
-You can refer to the following articles on **_basics of Git and Github and also contact the Project Mentors, in case you are stuck_**:
+You can refer to the following articles on **_basics of Git and Github and also contact the Mentors, in case you are stuck_**:
 
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
@@ -23,3 +23,12 @@ You can refer to the following articles on **_basics of Git and Github and also 
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
+
+<h2 align=center> 🧑🏻‍💻 Menotors </h2> 
+
+- [Harshit Paneri](https://github.com/harshit-paneri)
+- [Priyanshu Aroa](https://github.com/priyanshuarora595)
+- [Asim Ali DM](https://github.com/asimdm)
+- [Naman Sharma](https://github.com/Naman-sharma00100)
+- [Hanshika Mehta](https://github.com/Hanshika-Mehta)
+- [Somya Champawat](https://github.com/somya0808)
