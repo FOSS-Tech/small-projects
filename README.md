@@ -29,15 +29,21 @@ You can refer to the following articles on **_basics of Git and Github and also 
 <table align="center">
 	<tr >
     <td align="center">
+            <a href="https://github.com/asimdm">
+              <img src="https://avatars.githubusercontent.com/u/100372138?v=4" width="100px" alt=""/><br />
+              <sub><b>Asim Ali DM</b></sub>
+            </a>
+   </td>
+    <td align="center">
+            <a href="https://github.com/Hanshika-Mehta">
+              <img src="https://avatars.githubusercontent.com/u/90273801?v=4" width="100px" alt=""/><br />
+              <sub><b>Hanshika Mehta</b></sub>
+            </a>
+   </td>
+    <td align="center">
             <a href="https://github.com/harshit-paneri">
               <img src="https://avatars.githubusercontent.com/u/82382478?v=4" width="100px" alt=""/><br />
               <sub><b>Harshit Paneri</b></sub>
-            </a>
-   </td>
-   <td align="center">
-            <a href="https://github.com/priyanshuarora595">
-              <img src="https://avatars.githubusercontent.com/u/57026241?v=4" width="100px" alt=""/><br />
-              <sub><b>Priyanshu Aroa</b></sub>
             </a>
    </td>
    <td align="center">
@@ -46,16 +52,10 @@ You can refer to the following articles on **_basics of Git and Github and also 
               <sub><b>Naman Sharma</b></sub>
             </a>
    </td>
-   <td align="center">
-            <a href="https://github.com/asimdm">
-              <img src="https://avatars.githubusercontent.com/u/100372138?v=4" width="100px" alt=""/><br />
-              <sub><b>Asim Ali DM</b></sub>
-            </a>
-   </td>
-   <td align="center">
-            <a href="https://github.com/Hanshika-Mehta">
-              <img src="https://avatars.githubusercontent.com/u/90273801?v=4" width="100px" alt=""/><br />
-              <sub><b>Hanshika Mehta</b></sub>
+      <td align="center">
+            <a href="https://github.com/priyanshuarora595">
+              <img src="https://avatars.githubusercontent.com/u/57026241?v=4" width="100px" alt=""/><br />
+              <sub><b>Priyanshu Aroa</b></sub>
             </a>
    </td>
    <td align="center">
