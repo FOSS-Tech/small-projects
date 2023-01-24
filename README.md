@@ -70,7 +70,7 @@ You can refer to the following articles on **_basics of Git and Github and also 
    <td align="center">
             <a href="https://github.com/somya0808">
               <img src="https://avatars.githubusercontent.com/u/76099618?v=4" width="100px" alt=""/><br />
-              <sub><b>Somya</b></sub>
+              <sub><b>Somya Champawat</b></sub>
             </a>
    </td>
   </tr>
